@@ -5,6 +5,7 @@ I've decided to change my career path and pursue a career in data analytics. I f
 During my free time, I enjoy listening to podcasts on data analysis, product development, and machine learning. My favorites are "Data Skeptic", and "Make Sense Podcast".
 Additionally, I hold a Master's in Sports for swimming, and I adore going on bicycle rides.
 
+### Education:
 Internship in Realweb Consulting -> [Certificate](https://github.com/Masola8/Masola8/blob/main/RWC_Certificate.pdf)
 
 Course "Data analyst" Karpov.Courses -> [Certificate](https://github.com/Masola8/Masola8/blob/main/KC_certificate_eng.pdf)
