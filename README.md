@@ -6,7 +6,7 @@
 Мастер спорта по плаванию. Обожаю велопрогулки.
 
 ### Образование:
-Стажировка в Realweb Consulting -> [Сертификат]((https://github.com/Masola8/Masola8/blob/main/RWC_Certificate.pdf))
+Стажировка в Realweb Consulting -> [Сертификат](https://github.com/Masola8/Masola8/blob/main/RWC_Certificate.pdf)
 <!--
 **Masola8/Masola8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
