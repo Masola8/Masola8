@@ -1,5 +1,5 @@
 # Hi! I'm Marina 👋
-### I'm a data analyst. I had a project work in Realweb Camp and Karpov.Courses
+### I'm a data analyst. I have a project work in Realweb Camp and Karpov.Courses
 
 I've decided to change my career path and pursue a career in data analytics. I find analytics intriguing because it allows me to apply programming skills, utilize mathematical knowledge, and actively engage in business processes. I aspire to specialize in product analytics.
 During my free time, I enjoy listening to podcasts on data analysis, product development, and machine learning. My favorites are "Data Skeptic", and "Make Sense Podcast".
