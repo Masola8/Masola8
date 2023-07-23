@@ -11,6 +11,9 @@
 Курс "Аналитик данных" Karpov.Courses -> [Сертификат](https://github.com/Masola8/Masola8/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%9A%D0%A1_%D1%80%D1%83%D1%81.pdf)
 
 Курс "HTML и CSS. Профессиональная верстка сайтов" HTML Academy -> [Сертификат](https://github.com/Masola8/Masola8/blob/main/HTML_Certificate.pdf)
+
+### Languages and tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Masola8/Masola8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
