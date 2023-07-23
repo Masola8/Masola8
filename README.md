@@ -1,16 +1,15 @@
-# Привет! Меня зовут Марина. 👋
-### Я аналитик данных. Работала над проектами в Realweb Camp и Karpov.Courses
+# Hi! I'm Marina 👋
+### I'm a data analyst. I had a project work in Realweb Camp and Karpov.Courses
 
-Решила изменить карьерный путь и начать карьеру в аналитике данных. Аналитика мне интересна возможностью применить навыки программирования, знания математики и при этом активно общаться и участвовать в бизнес-процессах. Хочу развиваться в области продуктовой аналитики. 
-В свободное время я слушаю подкасты на тему анализа данных, развития продукта и машинного обучения. Любимые: IT-шниками не рождаются, Data Skeptic и make sense podcast.
-Мастер спорта по плаванию. Обожаю велопрогулки.
+I've decided to change my career path and pursue a career in data analytics. I find analytics intriguing because it allows me to apply programming skills, utilize mathematical knowledge, and actively engage in business processes. I aspire to specialize in product analytics.
+During my free time, I enjoy listening to podcasts on data analysis, product development, and machine learning. My favorites are "Data Skeptic", and "Make Sense Podcast".
+Additionally, I hold a Master's in Sports for swimming, and I adore going on bicycle rides.
 
-### Образование:
-Стажировка в Realweb Consulting -> [Сертификат](https://github.com/Masola8/Masola8/blob/main/RWC_Certificate.pdf)
+Internship in Realweb Consulting -> [Certificate](https://github.com/Masola8/Masola8/blob/main/RWC_Certificate.pdf)
 
-Курс "Аналитик данных" Karpov.Courses -> [Сертификат](https://github.com/Masola8/Masola8/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%9A%D0%A1_%D1%80%D1%83%D1%81.pdf)
+Course "Data analyst" Karpov.Courses -> [Certificate](https://github.com/Masola8/Masola8/blob/main/KC_certificate_eng.pdf)
 
-Курс "HTML и CSS. Профессиональная верстка сайтов" HTML Academy -> [Сертификат](https://github.com/Masola8/Masola8/blob/main/HTML_Certificate.pdf)
+Course "HTML and CSS. Professional website layout" HTML Academy -> [Certificate](https://github.com/Masola8/Masola8/blob/main/HTML_Certificate.pdf)
 
 ### Languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,9 +25,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-###📫 How to reach me:
+### 📫 How to reach me:
 e-mail: solokhina_m@yahoo.com
-telegram: https://t.me/Masola8 
+
+telegram: https://t.me/Masola8
+
 LinkedIn: http://www.linkedin.com/in/masola8 
 <!--
 **Masola8/Masola8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
