@@ -18,7 +18,7 @@ Course "HTML and CSS. Professional website layout" HTML Academy -> [Certificate]
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![SQL](https://img.shields.io/badge/SQL-%231572B6.svg?style=for-the-badge&logo=SQL&logoColor=%blue)
-![ClickHouse](https://img.shields.io/badge/ClickHouse--%23FFFC00.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFFC00.svg?style=for-the-badge&logo=ClickHouse&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
